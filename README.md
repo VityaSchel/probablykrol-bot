@@ -39,6 +39,13 @@ IMGUR_CLIENT_ID=Qa66Q64YNHwqBki
 TENOR_API_KEY=NVVL5ONA552I
 ```
 
+## Проекты, использующие бота
+
+Откройте [PR](https://github.com/VityaSchel/probablykrol-bot/fork), чтобы добавить сюда вашего бота
+
+- [ProbablyKrolBot](https://t.me/probablykrolbot) — Кролик Пробабли, модератор сервера Саши Citinez
+- [Piginez bot](https://t.me/piginezbot) — Свинтуз Александр Семакин (затуп)
+
 ## Лицензия
 
 MIT
